@@ -1,0 +1,16 @@
+{
+  "resources/images/pedro.gif": {
+    "file": "assets/pedro-63226b0d.gif",
+    "src": "resources/images/pedro.gif"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-911e262d.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-1bd03d06.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
